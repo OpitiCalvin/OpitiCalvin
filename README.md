@@ -1,4 +1,19 @@
-# Opiti Calvin
+<h1 align="center">Opiti, Calvin</h1>
+<h3 align="center">Geospatial Engineer | Python &amp; Golang Developer | Back-End Developer</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/calvin-opiti-48476a55/">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Opiti Calvin's LinkedIn Profile" height="30" width="30">
+    </a>
+    <a href="https://medium.com/@opiticalvin">
+        <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Opiti Calvin's Medium profile" height="30" width="30">
+    </a>
+    <a href="https://www.twitter.com/opiti_calvin">
+        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Opiti Calvin Twitter Profile" height="30" width="30">
+    </a>
+    <a href="mailto: opiticalvin@gmail.com">
+        <img src="https://simpleicons.org/icons/gmail.svg" height="30" width="30" alt="Gmail Address">
+    </a>
+</p>
 <h2 align="center">About Me</h2>
 
 ### Hi there 👋
@@ -30,22 +45,8 @@ func main() {
 }
 ```
 
-<h2 align="center">You can reach me at:</h2>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/calvin-opiti-48476a55/">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Opiti Calvin's LinkedIn Profile" height="30" width="30">
-    </a>
-    <a href="https://medium.com/@opiticalvin">
-        <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Opiti Calvin's Medium profile" height="30" width="30">
-    </a>
-    <a href="https://www.twitter.com/opiti_calvin">
-        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Opiti Calvin Twitter Profile" height="30" width="30">
-    </a>
-</p>
-
-<h2 align="center">Tech Stack</h2>
-
+<h2 align="center">Development Environments, languages, packages and Tools Stack</h2>
+<!-- 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![GOlang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -57,7 +58,35 @@ func main() {
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=mamrkdown)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=mamrkdown) -->
+
+<p align="left">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21" height="50">
+    <img src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/jupter/jupyter-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/qgis/qgis-ar21.svg" height="50">
+</p>
 
 
 <!--
