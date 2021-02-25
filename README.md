@@ -47,7 +47,7 @@ func main() {
 <h2 align="center">Tech Stack</h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![GOlang](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
+![GOlang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![R (statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
