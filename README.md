@@ -63,7 +63,7 @@ func main() {
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" height="50">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21" height="50">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" height="50">
@@ -82,7 +82,7 @@ func main() {
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="50">
-    <img src="https://www.vectorlogo.zone/logos/jupter/jupyter-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/qgis/qgis-ar21.svg" height="50">
