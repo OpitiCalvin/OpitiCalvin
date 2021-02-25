@@ -44,7 +44,7 @@ func main() {
     }
 }
 ```
-
+<hr>
 <h2 align="center">Development Environments, languages, packages and Tools Stack</h2>
 <!-- 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -60,47 +60,51 @@ func main() {
 ![GitHub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=mamrkdown) -->
 
-<p align="left">
+<p align="center">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" height="50">
+</p>
+<p align="center">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/linode/linode-ar21.svg" height="50">
-    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="50">
+</p>
+<p align="center">
     <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" height="50">
+</p>
+<p align="center">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="50">
-    <img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="50">
+</p>
+<p align="center">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="50">
+</p>
+<p align="center">
+    <img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/qgis/qgis-ar21.svg" height="50">
+</p>
+<p align="center">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="50">
+</p>
+<p align="center">
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" height="50">
+    <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" height="50">
+</p>
+<p align="center">
     <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="50">
-    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" height="50">
     <img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" height="50">
-    <img src="https://www.vectorlogo.zone/logos/qgis/qgis-ar21.svg" height="50">
 </p>
-
-
-<!--
-**OpitiCalvin/OpitiCalvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<hr>
 Credits: [Opiti Calvin](https://github.com/OpitiCalvin)
