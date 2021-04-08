@@ -1,5 +1,5 @@
 <h1 align="center">Opiti, Calvin</h1>
-<h3 align="center">Geospatial Engineer | Python &amp; Golang Developer | Back-End Developer</h3>
+<h3 align="center">Geospatial Engineer | Python, Go &amp; JS Developer | Back-End Developer</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/calvin-opiti-48476a55/">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Opiti Calvin's LinkedIn Profile" height="30" width="30">
